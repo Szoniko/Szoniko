@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Szoniko
 - 👀 I’m interested in automation and bots
-- 🌱 I’m currently learning javascript and html/css
-- 💞️ I’m looking to collaborate on some discord bots? 👀
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to meet some cool people to colaborate with 👀
 - 📫 You can reach me at discord - Szoniko!#6678
 
 <!---
